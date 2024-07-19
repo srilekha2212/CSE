@@ -1,0 +1,13 @@
+<html>
+<body bgcolor="pink">
+<table border="1">
+<tr>
+<td>Home<td>
+<td>Login<td>
+<td>Reg<td>
+<td>cart<td>
+</tr>
+</table>
+</body>
+</html>
+
